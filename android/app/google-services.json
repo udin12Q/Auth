@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "674622730837",
+    "firebase_url": "https://auth-55bbc-default-rtdb.firebaseio.com",
+    "project_id": "auth-55bbc",
+    "storage_bucket": "auth-55bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674622730837:android:592896097cc125aa455adc",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4TKKL_UmRG6Veg7iF_VJf-xp-ZqpW8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674622730837:android:cdc4ae82dd25ad85455adc",
+        "android_client_info": {
+          "package_name": "com.example.login1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4TKKL_UmRG6Veg7iF_VJf-xp-ZqpW8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
